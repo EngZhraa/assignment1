@@ -36,17 +36,4 @@
         
         
     }
-
-    // create a new object from Book class (instance)
-    // $book = new Book('TYU',15);
-
-    // $books = array(
-    //     new Book('XXG',12),
-    //     new Book('OOP',80)
-    // );
-    // foreach($books as $b)
-    // {
-    //     echo "<p>".$b->getcode()."</p>";
-    // }
-
 ?>
